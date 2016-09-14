@@ -30,7 +30,7 @@ int main() {
 		printf("Please input a positive number and factorial of it.\n");
 		fflush(stdout);
 		 scanf("%hu",&x);
-		    if (x>0 && x<=12){
+		    if (x>0 && x<13){
 //		    	restricted input so that  the output value is smaller
 //		    	than the maximum possible value of the type unsigned long
 		    				y=1;
