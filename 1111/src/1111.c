@@ -92,6 +92,9 @@ int main() {
 
 	}
 	printf(“this is a test comment\n”);
+	printf(“this is a test comment\n”);
+	printf(“this is a test comment\n”);
+	printf(“this is a test comment\n”);
 	}
 
 
